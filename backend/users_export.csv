@@ -1,0 +1,259 @@
+id,username,email,first_name,last_name,role,is_staff,is_superuser,is_active
+1,mohammed.alaoui,mohammed.alaoui@emsi-edu.ma,Mohammed,Alaoui,enseignant,False,False,True
+2,etudiant1,etudiant1@emsi-edu.ma,alali,Cherkaoui,etudiant,False,False,True
+7,mehdi.belkadi,mehdi.belkadi@emsi-edu.ma,Mehdi,Belkadi,etudiant,False,False,True
+8,reda.mernissi,reda.mernissi@emsi-edu.ma,Reda,Mernissi,etudiant,False,False,True
+9,omar.ait.omar,omar.ait.omar@emsi-edu.ma,Omar,Ait Omar,etudiant,False,False,True
+10,ilyas.cherkaoui,ilyas.cherkaoui@emsi-edu.ma,Ilyas,Cherkaoui,etudiant,False,False,True
+12,mehdi.el.alami,mehdi.el.alami@emsi-edu.ma,Mehdi,El Alami,etudiant,False,False,True
+13,reda.alaoui,reda.alaoui@emsi-edu.ma,Reda,Alaoui,etudiant,False,False,True
+14,omar.mansouri,omar.mansouri@emsi-edu.ma,mohamed,Mansouri,etudiant,False,False,True
+15,ilyas.kabbaj,ilyas.kabbaj@emsi-edu.ma,Ilyas,Kabbaj,etudiant,False,False,True
+16,rania.fadili,rania.fadili@emsi-edu.ma,Rania,Fadili,etudiant,False,False,True
+17,kenza.haddad,kenza.haddad@emsi-edu.ma,Kenza,Haddad,etudiant,False,False,True
+18,malak.el.harrak,malak.el.harrak@emsi-edu.ma,Malak,El Harrak,etudiant,False,False,True
+19,chaimae.naciri,chaimae.naciri@emsi-edu.ma,Chaimae,Naciri,etudiant,False,False,True
+20,ghita.el.alami,ghita.el.alami@emsi-edu.ma,Ghita,El Alami,etudiant,False,False,True
+21,bilal.alaoui,bilal.alaoui@emsi-edu.ma,Bilal,Alaoui,etudiant,False,False,True
+22,kenza.ait.omar,kenza.ait.omar@emsi-edu.ma,Kenza,Ait Omar,etudiant,False,False,True
+23,malak.cherkaoui,malak.cherkaoui@emsi-edu.ma,Malak,Cherkaoui,etudiant,False,False,True
+24,chaimae.benomar,chaimae.benomar@emsi-edu.ma,Chaimae,Benomar,etudiant,False,False,True
+25,ghita.lahlou,ghita.lahlou@emsi-edu.ma,Ghita,Lahlou,etudiant,False,False,True
+26,bilal.amrani,bilal.amrani@emsi-edu.ma,Bilal,Amrani,etudiant,False,False,True
+27,saad.chraibi,saad.chraibi@emsi-edu.ma,Saad,Chraibi,etudiant,False,False,True
+28,karim.belkadi,karim.belkadi@emsi-edu.ma,Karim,Belkadi,etudiant,False,False,True
+29,nabil.mernissi,nabil.mernissi@emsi-edu.ma,Nabil,Mernissi,etudiant,False,False,True
+30,walid.ait.omar,walid.ait.omar@emsi-edu.ma,Walid,Ait Omar,etudiant,False,False,True
+31,lina.cherkaoui,lina.cherkaoui@emsi-edu.ma,Lina,Cherkaoui,etudiant,False,False,True
+32,saad.naciri,saad.naciri@emsi-edu.ma,Saad,Naciri,etudiant,False,False,True
+33,karim.el.alami,karim.el.alami@emsi-edu.ma,Karim,El Alami,etudiant,False,False,True
+34,nabil.alaoui,nabil.alaoui@emsi-edu.ma,Nabil,Alaoui,etudiant,False,False,True
+35,walid.mansouri,walid.mansouri@emsi-edu.ma,Walid,Mansouri,etudiant,False,False,True
+36,lina.kabbaj,lina.kabbaj@emsi-edu.ma,Lina,Kabbaj,etudiant,False,False,True
+37,hiba.fadili,hiba.fadili@emsi-edu.ma,Hiba,Fadili,etudiant,False,False,True
+38,yasmine.haddad,yasmine.haddad@emsi-edu.ma,Yasmine,Haddad,etudiant,False,False,True
+39,aya.el.harrak,aya.el.harrak@emsi-edu.ma,Aya,El Harrak,etudiant,False,False,True
+40,meriem.naciri,meriem.naciri@emsi-edu.ma,Meriem,Naciri,etudiant,False,False,True
+41,youssef.el.alami,youssef.el.alami@emsi-edu.ma,Youssef,El Alami,etudiant,False,False,True
+42,hiba.mernissi,hiba.mernissi@emsi-edu.ma,Hiba,Mernissi,etudiant,False,False,True
+43,yasmine.ait.omar,yasmine.ait.omar@emsi-edu.ma,Yasmine,Ait Omar,etudiant,False,False,True
+44,aya.cherkaoui,aya.cherkaoui@emsi-edu.ma,Aya,Cherkaoui,etudiant,False,False,True
+45,meriem.benomar,meriem.benomar@emsi-edu.ma,Meriem,Benomar,etudiant,False,False,True
+46,youssef.lahlou,youssef.lahlou@emsi-edu.ma,Youssef,Lahlou,etudiant,False,False,True
+47,mehdi.amrani,mehdi.amrani@emsi-edu.ma,Mehdi,Amrani,etudiant,False,False,True
+48,reda.chraibi,reda.chraibi@emsi-edu.ma,Reda,Chraibi,etudiant,False,False,True
+49,omar.belkadi,omar.belkadi@emsi-edu.ma,Omar,Belkadi,etudiant,False,False,True
+50,ilyas.mernissi,ilyas.mernissi@emsi-edu.ma,Ilyas,Mernissi,etudiant,False,False,True
+51,rania.ait.omar,rania.ait.omar@emsi-edu.ma,Rania,Ait Omar,etudiant,False,False,True
+52,mehdi.el.harrak,mehdi.el.harrak@emsi-edu.ma,Mehdi,El Harrak,etudiant,False,False,True
+53,reda.naciri,reda.naciri@emsi-edu.ma,Reda,Naciri,etudiant,False,False,True
+54,omar.el.alami,omar.el.alami@emsi-edu.ma,Omar,El Alami,etudiant,False,False,True
+55,ilyas.alaoui,ilyas.alaoui@emsi-edu.ma,Ilyas,Alaoui,etudiant,False,False,True
+56,rania.mansouri,rania.mansouri@emsi-edu.ma,Rania,Mansouri,etudiant,False,False,True
+57,kenza.kabbaj,kenza.kabbaj@emsi-edu.ma,Kenza,Kabbaj,etudiant,False,False,True
+58,malak.fadili,malak.fadili@emsi-edu.ma,Malak,Fadili,etudiant,False,False,True
+59,chaimae.haddad,chaimae.haddad@emsi-edu.ma,Chaimae,Haddad,etudiant,False,False,True
+60,ghita.el.harrak,ghita.el.harrak@emsi-edu.ma,Ghita,El Harrak,etudiant,False,False,True
+61,bilal.naciri,bilal.naciri@emsi-edu.ma,Bilal,Naciri,etudiant,False,False,True
+62,kenza.belkadi,kenza.belkadi@emsi-edu.ma,Kenza,Belkadi,etudiant,False,False,True
+63,malak.mernissi,malak.mernissi@emsi-edu.ma,Malak,Mernissi,etudiant,False,False,True
+64,chaimae.ait.omar,chaimae.ait.omar@emsi-edu.ma,Chaimae,Ait Omar,etudiant,False,False,True
+65,ghita.cherkaoui,ghita.cherkaoui@emsi-edu.ma,Ghita,Cherkaoui,etudiant,False,False,True
+66,bilal.benomar,bilal.benomar@emsi-edu.ma,Bilal,Benomar,etudiant,False,False,True
+67,saad.lahlou,saad.lahlou@emsi-edu.ma,Saad,Lahlou,etudiant,False,False,True
+68,karim.amrani,karim.amrani@emsi-edu.ma,Karim,Amrani,etudiant,False,False,True
+69,nabil.chraibi,nabil.chraibi@emsi-edu.ma,Nabil,Chraibi,etudiant,False,False,True
+70,walid.belkadi,walid.belkadi@emsi-edu.ma,Walid,Belkadi,etudiant,False,False,True
+71,lina.mernissi,lina.mernissi@emsi-edu.ma,Lina,Mernissi,etudiant,False,False,True
+72,saad.haddad,saad.haddad@emsi-edu.ma,Saad,Haddad,etudiant,False,False,True
+73,karim.el.harrak,karim.el.harrak@emsi-edu.ma,Karim,El Harrak,etudiant,False,False,True
+74,nabil.naciri,nabil.naciri@emsi-edu.ma,Nabil,Naciri,etudiant,False,False,True
+75,walid.el.alami,walid.el.alami@emsi-edu.ma,Walid,El Alami,etudiant,False,False,True
+76,lina.alaoui,lina.alaoui@emsi-edu.ma,Lina,Alaoui,etudiant,False,False,True
+77,hiba.mansouri,hiba.mansouri@emsi-edu.ma,Hiba,Mansouri,etudiant,False,False,True
+78,yasmine.kabbaj,yasmine.kabbaj@emsi-edu.ma,Yasmine,Kabbaj,etudiant,False,False,True
+79,aya.fadili,aya.fadili@emsi-edu.ma,Aya,Fadili,etudiant,False,False,True
+80,meriem.haddad,meriem.haddad@emsi-edu.ma,Meriem,Haddad,etudiant,False,False,True
+81,youssef.el.harrak,youssef.el.harrak@emsi-edu.ma,Youssef,El Harrak,etudiant,False,False,True
+82,hiba.chraibi,hiba.chraibi@emsi-edu.ma,Hiba,Chraibi,etudiant,False,False,True
+83,yasmine.belkadi,yasmine.belkadi@emsi-edu.ma,Yasmine,Belkadi,etudiant,False,False,True
+84,aya.mernissi,aya.mernissi@emsi-edu.ma,Aya,Mernissi,etudiant,False,False,True
+85,meriem.ait.omar,meriem.ait.omar@emsi-edu.ma,Meriem,Ait Omar,etudiant,False,False,True
+86,youssef.cherkaoui,youssef.cherkaoui@emsi-edu.ma,Youssef,Cherkaoui,etudiant,False,False,True
+87,mehdi.benomar,mehdi.benomar@emsi-edu.ma,Mehdi,Benomar,etudiant,False,False,True
+88,reda.lahlou,reda.lahlou@emsi-edu.ma,Reda,Lahlou,etudiant,False,False,True
+89,omar.amrani,omar.amrani@emsi-edu.ma,Omar,Amrani,etudiant,False,False,True
+90,ilyas.chraibi,ilyas.chraibi@emsi-edu.ma,Ilyas,Chraibi,etudiant,False,False,True
+91,rania.belkadi,rania.belkadi@emsi-edu.ma,Rania,Belkadi,etudiant,False,False,True
+92,mehdi.fadili,mehdi.fadili@emsi-edu.ma,Mehdi,Fadili,etudiant,False,False,True
+93,reda.haddad,reda.haddad@emsi-edu.ma,Reda,Haddad,etudiant,False,False,True
+94,omar.el.harrak,omar.el.harrak@emsi-edu.ma,Omar,El Harrak,etudiant,False,False,True
+95,ilyas.naciri,ilyas.naciri@emsi-edu.ma,Ilyas,Naciri,etudiant,False,False,True
+96,rania.el.alami,rania.el.alami@emsi-edu.ma,Rania,El Alami,etudiant,False,False,True
+97,kenza.alaoui,kenza.alaoui@emsi-edu.ma,Kenza,Alaoui,etudiant,False,False,True
+98,malak.mansouri,malak.mansouri@emsi-edu.ma,Malak,Mansouri,etudiant,False,False,True
+99,chaimae.kabbaj,chaimae.kabbaj@emsi-edu.ma,Chaimae,Kabbaj,etudiant,False,False,True
+100,ghita.fadili,ghita.fadili@emsi-edu.ma,Ghita,Fadili,etudiant,False,False,True
+101,bilal.haddad,bilal.haddad@emsi-edu.ma,Bilal,Haddad,etudiant,False,False,True
+102,kenza.amrani,kenza.amrani@emsi-edu.ma,Kenza,Amrani,etudiant,False,False,True
+103,malak.chraibi,malak.chraibi@emsi-edu.ma,Malak,Chraibi,etudiant,False,False,True
+104,chaimae.belkadi,chaimae.belkadi@emsi-edu.ma,Chaimae,Belkadi,etudiant,False,False,True
+105,ghita.mernissi,ghita.mernissi@emsi-edu.ma,Ghita,Mernissi,etudiant,False,False,True
+106,bilal.ait.omar,bilal.ait.omar@emsi-edu.ma,Bilal,Ait Omar,etudiant,False,False,True
+107,saad.cherkaoui,saad.cherkaoui@emsi-edu.ma,Saad,Cherkaoui,etudiant,False,False,True
+108,karim.benomar,karim.benomar@emsi-edu.ma,Karim,Benomar,etudiant,False,False,True
+109,nabil.lahlou,nabil.lahlou@emsi-edu.ma,Nabil,Lahlou,etudiant,False,False,True
+110,walid.amrani,walid.amrani@emsi-edu.ma,Walid,Amrani,etudiant,False,False,True
+111,lina.chraibi,lina.chraibi@emsi-edu.ma,Lina,Chraibi,etudiant,False,False,True
+112,saad.kabbaj,saad.kabbaj@emsi-edu.ma,Saad,Kabbaj,etudiant,False,False,True
+113,karim.fadili,karim.fadili@emsi-edu.ma,Karim,Fadili,etudiant,False,False,True
+114,nabil.haddad,nabil.haddad@emsi-edu.ma,Nabil,Haddad,etudiant,False,False,True
+115,walid.el.harrak,walid.el.harrak@emsi-edu.ma,Walid,El Harrak,etudiant,False,False,True
+116,lina.naciri,lina.naciri@emsi-edu.ma,Lina,Naciri,etudiant,False,False,True
+117,hiba.el.alami,hiba.el.alami@emsi-edu.ma,Hiba,El Alami,etudiant,False,False,True
+118,yasmine.alaoui,yasmine.alaoui@emsi-edu.ma,Yasmine,Alaoui,etudiant,False,False,True
+119,aya.mansouri,aya.mansouri@emsi-edu.ma,Aya,Mansouri,etudiant,False,False,True
+120,meriem.kabbaj,meriem.kabbaj@emsi-edu.ma,Meriem,Kabbaj,etudiant,False,False,True
+121,youssef.fadili,youssef.fadili@emsi-edu.ma,Youssef,Fadili,etudiant,False,False,True
+122,hiba.lahlou,hiba.lahlou@emsi-edu.ma,Hiba,Lahlou,etudiant,False,False,True
+123,yasmine.amrani,yasmine.amrani@emsi-edu.ma,Yasmine,Amrani,etudiant,False,False,True
+124,aya.chraibi,aya.chraibi@emsi-edu.ma,Aya,Chraibi,etudiant,False,False,True
+125,meriem.belkadi,meriem.belkadi@emsi-edu.ma,Meriem,Belkadi,etudiant,False,False,True
+126,youssef.mernissi,youssef.mernissi@emsi-edu.ma,Youssef,Mernissi,etudiant,False,False,True
+127,mehdi.ait.omar,mehdi.ait.omar@emsi-edu.ma,Mehdi,Ait Omar,etudiant,False,False,True
+128,reda.cherkaoui,reda.cherkaoui@emsi-edu.ma,Reda,Cherkaoui,etudiant,False,False,True
+129,omar.benomar,omar.benomar@emsi-edu.ma,Omar,Benomar,etudiant,False,False,True
+130,ilyas.lahlou,ilyas.lahlou@emsi-edu.ma,Ilyas,Lahlou,etudiant,False,False,True
+131,rania.amrani,rania.amrani@emsi-edu.ma,Rania,Amrani,etudiant,False,False,True
+132,mehdi.mansouri,mehdi.mansouri@emsi-edu.ma,Mehdi,Mansouri,etudiant,False,False,True
+133,reda.kabbaj,reda.kabbaj@emsi-edu.ma,Reda,Kabbaj,etudiant,False,False,True
+134,omar.fadili,omar.fadili@emsi-edu.ma,Omar,Fadili,etudiant,False,False,True
+135,ilyas.haddad,ilyas.haddad@emsi-edu.ma,Ilyas,Haddad,etudiant,False,False,True
+136,rania.el.harrak,rania.el.harrak@emsi-edu.ma,Rania,El Harrak,etudiant,False,False,True
+137,kenza.naciri,kenza.naciri@emsi-edu.ma,Kenza,Naciri,etudiant,False,False,True
+138,malak.el.alami,malak.el.alami@emsi-edu.ma,Malak,El Alami,etudiant,False,False,True
+139,chaimae.alaoui,chaimae.alaoui@emsi-edu.ma,Chaimae,Alaoui,etudiant,False,False,True
+140,ghita.mansouri,ghita.mansouri@emsi-edu.ma,Ghita,Mansouri,etudiant,False,False,True
+141,bilal.kabbaj,bilal.kabbaj@emsi-edu.ma,Bilal,Kabbaj,etudiant,False,False,True
+142,kenza.benomar,kenza.benomar@emsi-edu.ma,Kenza,Benomar,etudiant,False,False,True
+143,malak.lahlou,malak.lahlou@emsi-edu.ma,Malak,Lahlou,etudiant,False,False,True
+144,chaimae.amrani,chaimae.amrani@emsi-edu.ma,Chaimae,Amrani,etudiant,False,False,True
+145,ghita.chraibi,ghita.chraibi@emsi-edu.ma,Ghita,Chraibi,etudiant,False,False,True
+146,bilal.belkadi,bilal.belkadi@emsi-edu.ma,Bilal,Belkadi,etudiant,False,False,True
+147,saad.mernissi,saad.mernissi@emsi-edu.ma,Saad,Mernissi,etudiant,False,False,True
+148,karim.ait.omar,karim.ait.omar@emsi-edu.ma,Karim,Ait Omar,etudiant,False,False,True
+149,nabil.cherkaoui,nabil.cherkaoui@emsi-edu.ma,Nabil,Cherkaoui,etudiant,False,False,True
+150,walid.benomar,walid.benomar@emsi-edu.ma,Walid,Benomar,etudiant,False,False,True
+151,lina.lahlou,lina.lahlou@emsi-edu.ma,Lina,Lahlou,etudiant,False,False,True
+152,saad.alaoui,saad.alaoui@emsi-edu.ma,Saad,Alaoui,etudiant,False,False,True
+153,karim.mansouri,karim.mansouri@emsi-edu.ma,Karim,Mansouri,etudiant,False,False,True
+154,nabil.kabbaj,nabil.kabbaj@emsi-edu.ma,Nabil,Kabbaj,etudiant,False,False,True
+155,walid.fadili,walid.fadili@emsi-edu.ma,Walid,Fadili,etudiant,False,False,True
+156,lina.haddad,lina.haddad@emsi-edu.ma,Lina,Haddad,etudiant,False,False,True
+157,hiba.el.harrak,hiba.el.harrak@emsi-edu.ma,Hiba,El Harrak,etudiant,False,False,True
+158,yasmine.naciri,yasmine.naciri@emsi-edu.ma,Yasmine,Naciri,etudiant,False,False,True
+159,aya.el.alami,aya.el.alami@emsi-edu.ma,Aya,El Alami,etudiant,False,False,True
+160,meriem.alaoui,meriem.alaoui@emsi-edu.ma,Meriem,Alaoui,etudiant,False,False,True
+161,youssef.mansouri,youssef.mansouri@emsi-edu.ma,Youssef,Mansouri,etudiant,False,False,True
+162,hiba.cherkaoui2,hiba.cherkaoui2@emsi-edu.ma,Hiba,Cherkaoui,etudiant,False,False,True
+163,yasmine.benomar2,yasmine.benomar2@emsi-edu.ma,Yasmine,Benomar,etudiant,False,False,True
+164,aya.lahlou2,aya.lahlou2@emsi-edu.ma,Aya,Lahlou,etudiant,False,False,True
+165,meriem.amrani2,meriem.amrani2@emsi-edu.ma,Meriem,Amrani,etudiant,False,False,True
+166,youssef.chraibi2,youssef.chraibi2@emsi-edu.ma,Youssef,Chraibi,etudiant,False,False,True
+167,mehdi.belkadi2,mehdi.belkadi2@emsi-edu.ma,Mehdi,Belkadi,etudiant,False,False,True
+168,reda.mernissi2,reda.mernissi2@emsi-edu.ma,Reda,Mernissi,etudiant,False,False,True
+169,omar.ait.omar2,omar.ait.omar2@emsi-edu.ma,Omar,Ait Omar,etudiant,False,False,True
+170,ilyas.cherkaoui2,ilyas.cherkaoui2@emsi-edu.ma,Ilyas,Cherkaoui,etudiant,False,False,True
+171,rania.benomar2,rania.benomar2@emsi-edu.ma,Rania,Benomar,etudiant,False,False,True
+172,mehdi.el.alami2,mehdi.el.alami2@emsi-edu.ma,Mehdi,El Alami,etudiant,False,False,True
+173,reda.alaoui2,reda.alaoui2@emsi-edu.ma,Reda,Alaoui,etudiant,False,False,True
+174,omar.mansouri2,omar.mansouri2@emsi-edu.ma,Omar,Mansouri,etudiant,False,False,True
+175,ilyas.kabbaj2,ilyas.kabbaj2@emsi-edu.ma,Ilyas,Kabbaj,etudiant,False,False,True
+176,rania.fadili2,rania.fadili2@emsi-edu.ma,Rania,Fadili,etudiant,False,False,True
+177,kenza.haddad2,kenza.haddad2@emsi-edu.ma,Kenza,Haddad,etudiant,False,False,True
+178,malak.el.harrak2,malak.el.harrak2@emsi-edu.ma,Malak,El Harrak,etudiant,False,False,True
+179,chaimae.naciri2,chaimae.naciri2@emsi-edu.ma,Chaimae,Naciri,etudiant,False,False,True
+180,ghita.el.alami2,ghita.el.alami2@emsi-edu.ma,Ghita,El Alami,etudiant,False,False,True
+181,bilal.alaoui2,bilal.alaoui2@emsi-edu.ma,Bilal,Alaoui,etudiant,False,False,True
+182,kenza.ait.omar2,kenza.ait.omar2@emsi-edu.ma,Kenza,Ait Omar,etudiant,False,False,True
+183,malak.cherkaoui2,malak.cherkaoui2@emsi-edu.ma,Malak,Cherkaoui,etudiant,False,False,True
+184,chaimae.benomar2,chaimae.benomar2@emsi-edu.ma,Chaimae,Benomar,etudiant,False,False,True
+185,ghita.lahlou2,ghita.lahlou2@emsi-edu.ma,Ghita,Lahlou,etudiant,False,False,True
+186,bilal.amrani2,bilal.amrani2@emsi-edu.ma,Bilal,Amrani,etudiant,False,False,True
+187,saad.chraibi2,saad.chraibi2@emsi-edu.ma,Saad,Chraibi,etudiant,False,False,True
+188,karim.belkadi2,karim.belkadi2@emsi-edu.ma,Karim,Belkadi,etudiant,False,False,True
+189,nabil.mernissi2,nabil.mernissi2@emsi-edu.ma,Nabil,Mernissi,etudiant,False,False,True
+190,walid.ait.omar2,walid.ait.omar2@emsi-edu.ma,Walid,Ait Omar,etudiant,False,False,True
+191,lina.cherkaoui2,lina.cherkaoui2@emsi-edu.ma,Lina,Cherkaoui,etudiant,False,False,True
+192,saad.naciri2,saad.naciri2@emsi-edu.ma,Saad,Naciri,etudiant,False,False,True
+193,karim.el.alami2,karim.el.alami2@emsi-edu.ma,Karim,El Alami,etudiant,False,False,True
+194,nabil.alaoui2,nabil.alaoui2@emsi-edu.ma,Nabil,Alaoui,etudiant,False,False,True
+195,walid.mansouri2,walid.mansouri2@emsi-edu.ma,Walid,Mansouri,etudiant,False,False,True
+196,lina.kabbaj2,lina.kabbaj2@emsi-edu.ma,Lina,Kabbaj,etudiant,False,False,True
+197,hiba.fadili2,hiba.fadili2@emsi-edu.ma,Hiba,Fadili,etudiant,False,False,True
+198,yasmine.haddad2,yasmine.haddad2@emsi-edu.ma,Yasmine,Haddad,etudiant,False,False,True
+199,aya.el.harrak2,aya.el.harrak2@emsi-edu.ma,Aya,El Harrak,etudiant,False,False,True
+200,meriem.naciri2,meriem.naciri2@emsi-edu.ma,Meriem,Naciri,etudiant,False,False,True
+201,youssef.el.alami2,youssef.el.alami2@emsi-edu.ma,Youssef,El Alami,etudiant,False,False,True
+202,hiba.mernissi2,hiba.mernissi2@emsi-edu.ma,Hiba,Mernissi,etudiant,False,False,True
+203,yasmine.ait.omar2,yasmine.ait.omar2@emsi-edu.ma,Yasmine,Ait Omar,etudiant,False,False,True
+204,aya.cherkaoui2,aya.cherkaoui2@emsi-edu.ma,Aya,Cherkaoui,etudiant,False,False,True
+205,meriem.benomar2,meriem.benomar2@emsi-edu.ma,Meriem,Benomar,etudiant,False,False,True
+206,youssef.lahlou2,youssef.lahlou2@emsi-edu.ma,Youssef,Lahlou,etudiant,False,False,True
+207,mehdi.amrani2,mehdi.amrani2@emsi-edu.ma,Mehdi,Amrani,etudiant,False,False,True
+208,reda.chraibi2,reda.chraibi2@emsi-edu.ma,Reda,Chraibi,etudiant,False,False,True
+209,omar.belkadi2,omar.belkadi2@emsi-edu.ma,Omar,Belkadi,etudiant,False,False,True
+210,ilyas.mernissi2,ilyas.mernissi2@emsi-edu.ma,Ilyas,Mernissi,etudiant,False,False,True
+211,rania.ait.omar2,rania.ait.omar2@emsi-edu.ma,Rania,Ait Omar,etudiant,False,False,True
+212,mehdi.el.harrak2,mehdi.el.harrak2@emsi-edu.ma,Mehdi,El Harrak,etudiant,False,False,True
+213,reda.naciri2,reda.naciri2@emsi-edu.ma,Reda,Naciri,etudiant,False,False,True
+214,omar.el.alami2,omar.el.alami2@emsi-edu.ma,Omar,El Alami,etudiant,False,False,True
+215,ilyas.alaoui2,ilyas.alaoui2@emsi-edu.ma,Ilyas,Alaoui,etudiant,False,False,True
+216,rania.mansouri2,rania.mansouri2@emsi-edu.ma,Rania,Mansouri,etudiant,False,False,True
+217,kenza.kabbaj2,kenza.kabbaj2@emsi-edu.ma,Kenza,Kabbaj,etudiant,False,False,True
+218,malak.fadili2,malak.fadili2@emsi-edu.ma,Malak,Fadili,etudiant,False,False,True
+219,chaimae.haddad2,chaimae.haddad2@emsi-edu.ma,Chaimae,Haddad,etudiant,False,False,True
+220,ghita.el.harrak2,ghita.el.harrak2@emsi-edu.ma,Ghita,El Harrak,etudiant,False,False,True
+221,bilal.naciri2,bilal.naciri2@emsi-edu.ma,Bilal,Naciri,etudiant,False,False,True
+222,kenza.belkadi2,kenza.belkadi2@emsi-edu.ma,Kenza,Belkadi,etudiant,False,False,True
+223,malak.mernissi2,malak.mernissi2@emsi-edu.ma,Malak,Mernissi,etudiant,False,False,True
+224,chaimae.ait.omar2,chaimae.ait.omar2@emsi-edu.ma,Chaimae,Ait Omar,etudiant,False,False,True
+225,ghita.cherkaoui2,ghita.cherkaoui2@emsi-edu.ma,Ghita,Cherkaoui,etudiant,False,False,True
+226,bilal.benomar2,bilal.benomar2@emsi-edu.ma,Bilal,Benomar,etudiant,False,False,True
+227,saad.lahlou2,saad.lahlou2@emsi-edu.ma,Saad,Lahlou,etudiant,False,False,True
+228,karim.amrani2,karim.amrani2@emsi-edu.ma,Karim,Amrani,etudiant,False,False,True
+229,nabil.chraibi2,nabil.chraibi2@emsi-edu.ma,Nabil,Chraibi,etudiant,False,False,True
+230,walid.belkadi2,walid.belkadi2@emsi-edu.ma,Walid,Belkadi,etudiant,False,False,True
+231,lina.mernissi2,lina.mernissi2@emsi-edu.ma,Lina,Mernissi,etudiant,False,False,True
+232,saad.haddad2,saad.haddad2@emsi-edu.ma,Saad,Haddad,etudiant,False,False,True
+233,karim.el.harrak2,karim.el.harrak2@emsi-edu.ma,Karim,El Harrak,etudiant,False,False,True
+234,nabil.naciri2,nabil.naciri2@emsi-edu.ma,Nabil,Naciri,etudiant,False,False,True
+235,walid.el.alami2,walid.el.alami2@emsi-edu.ma,Walid,El Alami,etudiant,False,False,True
+236,lina.alaoui2,lina.alaoui2@emsi-edu.ma,Lina,Alaoui,etudiant,False,False,True
+237,hiba.mansouri2,hiba.mansouri2@emsi-edu.ma,Hiba,Mansouri,etudiant,False,False,True
+238,yasmine.kabbaj2,yasmine.kabbaj2@emsi-edu.ma,Yasmine,Kabbaj,etudiant,False,False,True
+239,aya.fadili2,aya.fadili2@emsi-edu.ma,Aya,Fadili,etudiant,False,False,True
+240,meriem.haddad2,meriem.haddad2@emsi-edu.ma,Meriem,Haddad,etudiant,False,False,True
+241,youssef.el.harrak2,youssef.el.harrak2@emsi-edu.ma,Youssef,El Harrak,etudiant,False,False,True
+242,hiba.chraibi2,hiba.chraibi2@emsi-edu.ma,Hiba,Chraibi,etudiant,False,False,True
+243,yasmine.belkadi2,yasmine.belkadi2@emsi-edu.ma,Yasmine,Belkadi,etudiant,False,False,True
+244,aya.mernissi2,aya.mernissi2@emsi-edu.ma,Aya,Mernissi,etudiant,False,False,True
+245,meriem.ait.omar2,meriem.ait.omar2@emsi-edu.ma,Meriem,Ait Omar,etudiant,False,False,True
+246,youssef.cherkaoui2,youssef.cherkaoui2@emsi-edu.ma,Youssef,Cherkaoui,etudiant,False,False,True
+247,mehdi.benomar2,mehdi.benomar2@emsi-edu.ma,Mehdi,Benomar,etudiant,False,False,True
+248,reda.lahlou2,reda.lahlou2@emsi-edu.ma,Reda,Lahlou,etudiant,False,False,True
+249,omar.amrani2,omar.amrani2@emsi-edu.ma,Omar,Amrani,etudiant,False,False,True
+250,ilyas.chraibi2,ilyas.chraibi2@emsi-edu.ma,Ilyas,Chraibi,etudiant,False,False,True
+251,rania.belkadi2,rania.belkadi2@emsi-edu.ma,Rania,Belkadi,etudiant,False,False,True
+252,mehdi.fadili2,mehdi.fadili2@emsi-edu.ma,Mehdi,Fadili,etudiant,False,False,True
+253,reda.haddad2,reda.haddad2@emsi-edu.ma,Reda,Haddad,etudiant,False,False,True
+254,omar.el.harrak2,omar.el.harrak2@emsi-edu.ma,Omar,El Harrak,etudiant,False,False,True
+255,ilyas.naciri2,ilyas.naciri2@emsi-edu.ma,Ilyas,Naciri,etudiant,False,False,True
+256,rania.el.alami2,rania.el.alami2@emsi-edu.ma,Rania,El Alami,etudiant,False,False,True
+257,kenza.alaoui2,kenza.alaoui2@emsi-edu.ma,Kenza,Alaoui,etudiant,False,False,True
+258,malak.mansouri2,malak.mansouri2@emsi-edu.ma,Malak,Mansouri,etudiant,False,False,True
+259,chaimae.kabbaj2,chaimae.kabbaj2@emsi-edu.ma,Chaimae,Kabbaj,etudiant,False,False,True
+260,ghita.fadili2,ghita.fadili2@emsi-edu.ma,Ghita,Fadili,etudiant,False,False,True
+261,bilal.haddad2,bilal.haddad2@emsi-edu.ma,Bilal,Haddad,etudiant,False,False,True
+262,admin,admin@portail.com,Admin,Systeme,admin,True,True,True
+263,123,moujtahid@gmail.com,adam,moujtahid,etudiant,False,False,True
